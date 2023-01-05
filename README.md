@@ -14,6 +14,6 @@ This repository contain projects completed by me for self learning, professional
     - [Stock Market prediction](https://github.com/marcojr93/data-science-portifolio/blob/main/Stock_market_prediction_with_prophet.ipynb) - This code is used to analyse the stock market predction. Also part of other project integrated with Telegram Bot.
 
 
-Please feel free to ask or contact-me for oportunities, questions and stuffs about my portifolio: - [LinkedIn](https://www.linkedin.com/in/marco-antonio-lima-j%C3%BAnior-4498719b/)
+Please feel free to ask or contact-me for oportunities, questions and stuffs about my portifolio: - [LinkedIn](https://www.linkedin.com/in/marcolimajr/)
 
 For more, *marcojunior.em@gmail.com*
